@@ -1,0 +1,1 @@
+wget --no-check-certificate 'https://amherst-holschuh-lab.s3.amazonaws.com/Geol112_Lab_03/TectonicReconstruction.nc' -O TectonicReconstruction.nc
