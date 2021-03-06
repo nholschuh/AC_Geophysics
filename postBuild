@@ -1,1 +1,1 @@
-wget https://amherst-holschuh-lab.s3.amazonaws.com/Geol112_Lab_03/Complete_Ice7G.nc
+wget --no-check-certificate 'https://amherst-holschuh-lab.s3.amazonaws.com/Geol112_Lab_03/Complete_Ice7G.nc' -O Complete_Ice7G.nc
