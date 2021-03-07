@@ -3,3 +3,4 @@ xarray
 matplotlib
 netcdf4
 ipympl
+landlab
